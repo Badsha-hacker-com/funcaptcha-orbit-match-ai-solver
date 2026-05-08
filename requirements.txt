@@ -1,0 +1,5 @@
+botright
+playwright
+onnxruntime
+pillow
+funcaptcha_challenger
